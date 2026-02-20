@@ -1,3 +1,3 @@
-# Proto.io Tasks
+# Tasks
 
-This folder contains all Proto.io internship assignments.
+This folder contains all internship assignments.
