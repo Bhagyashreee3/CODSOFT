@@ -26,7 +26,7 @@ Design a clean and user-friendly mobile app signup and login experience.
  Folder:
 
 * Figma/Task1
-* Proto.io/Task1
+
 
 ---
 
@@ -43,7 +43,6 @@ Design an attractive and easy-to-use restaurant menu interface.
 
  Folder:
 
-* Figma/Task2
 * Proto.io/Task2
 
 ---
@@ -59,10 +58,6 @@ Design a modern e-commerce website interface focused on usability and visual hie
 * Product detail page
 * Clean and responsive layout
 
- Folder:
-
-* Figma/Task3
-* Proto.io/Task3
 
 ---
 
@@ -73,13 +68,11 @@ CODSOFT
 │
 ├── Figma
 │   ├── Task1
-│   ├── Task2
-│   └── Task3
 │
 ├── Proto.io
-│   ├── Task1
 │   ├── Task2
-│   └── Task3
+│
+└── Task3-Ecommerce-Website
 │
 └── README.md
 ```
